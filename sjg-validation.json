@@ -1,0 +1,8 @@
+{
+"name":"OKNW#1259",
+"ticker":"OKNW",
+"discordId":"916295630199066665",
+"pool-list":"true",
+"poolMetaData":"https://raw.githubusercontent.com/oknw-pool/info/master/poolMetaData.json",
+"validation":"https://raw.githubusercontent.com/oknw-pool/info/master/sjg-validation.json"
+}
